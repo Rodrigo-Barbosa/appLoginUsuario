@@ -20,7 +20,7 @@
     <param-name>jersey.config.server.provider.packages</param-name>
     <param-value> com.jersey.jaxb, com.fasterxml.jackson.jaxrs.json </param-value>
   </context-param>
-  <display-name>userControl</display-name>
+  <display-name>user</display-name>
   <context-param>
     <param-name>javax.faces.PROJECT_STAGE</param-name>
     <param-value>Production</param-value>
